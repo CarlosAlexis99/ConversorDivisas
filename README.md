@@ -1,6 +1,6 @@
 # Conversor de Monedas con Java
 
-Este proyecto es un **conversor de monedas** desarrollado en **Java**. Permite convertir entre más de **30 tipos de divisas** utilizando la librería **GSON**. A continuación, se detallan los requisitos para ejecutar y clonar el proyecto:
+Este proyecto es un **conversor de monedas** desarrollado en **Java**. Permite convertir entre más de **30 tipos de divisas** utilizando la librería **GSON**. A continuación, se detallan los requisitos para clonar y ejecutar el proyecto:
 
 ## Requisitos
 
